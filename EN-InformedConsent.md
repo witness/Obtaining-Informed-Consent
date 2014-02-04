@@ -10,7 +10,7 @@
 
 ``` Footer for Document ```
 
-Obtaining Informed Consent V 1.0
+Obtaining Informed Consent V 1.1
 
 witness.org @witnessorg facebook.com/witness 
 ```[IMAGE witness logo.ai]```
@@ -20,7 +20,7 @@ witness.org @witnessorg facebook.com/witness
 ## What is informed consent?
 Informed consent is a legal and ethical obligation of human rights
 defenders to protect the safety, security, and dignity of their
-interviewees. There are 4 main elements:
+interviewees. There are 6 main elements:
 
 ### Disclosure
 The use and the purpose of the interview must be fully explained. This helps protect the interviewee’s
@@ -44,6 +44,12 @@ The interviewee must be able to comprehend the implications of his or
 her participation. This is an especially important issue with special
 populations (e.g., children, people with mental disabilities, people who
 have suffered significant recent trauma).
+
+### New element 1
+
+### New element 2
+
+### New element 3
 
 ```[IMAGE  Witness Interview .ai]```
 
@@ -92,5 +98,6 @@ photos, website)?
 or video itself that we need to be aware of?
 * Are you aware that you can stop the filming process at any time in order
 to ask questions or to take a break?
+* Is this working?
 
 ```End of document```
