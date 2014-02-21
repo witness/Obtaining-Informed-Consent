@@ -85,6 +85,11 @@ it.
 ### Step 5
 Proceed with an on-camera consent or paper consent.
 
+### Step 6
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis quam semper ante faucibus ultrices. Fusce ante dolor, feugiat quis leo tempor, placerat commodo arcu. Cras consectetur dui et risus consequat auctor. Duis elementum libero in nibh suscipit consectetur. Sed ornare blandit lacus sit amet semper. Sed mattis lacinia luctus. Morbi venenatis massa eu accumsan ultrices. Praesent ligula erat, dignissim ac urna sed, consectetur tristique massa. Aliquam in lacus vel metus varius vulputate. Vivamus ut viverra ante, bibendum adipiscing neque. Pellentesque sapien dolor, rhoncus ac cursus eget, cursus sit amet eros. Integer turpis metus, suscipit a iaculis ac, porttitor sit amet est. Aliquam varius, lectus non volutpat vulputate, sapien ipsum lobortis urna, sit amet hendrerit enim augue eget nulla. Nunc accumsan at neque nec vulputate. Aliquam eu sodales lacus, at hendrerit velit.
+
+Donec quam nisl, vestibulum et pretium quis, pharetra non quam. Ut eget massa aliquet, consectetur dolor eu, aliquam lectus. Sed commodo tristique malesuada. Donec rutrum pretium mi in tincidunt. Etiam luctus nibh ut neque interdum congue. Aenean imperdiet a sapien varius imperdiet. Aenean fermentum neque eu lectus bibendum auctor. Sed nec tristique diam. Vestibulum commodo ipsum et magna fringilla, eu pulvinar erat commodo. Cras vel aliquam dolor. Nulla justo neque, lacinia ut nisi at, euismod facilisis odio. Fusce eget laoreet ante.
+
 ## Questions For On-Camera Consent
 On-camera consent can include the answers to the following questions:
 
