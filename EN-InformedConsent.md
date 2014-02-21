@@ -10,7 +10,7 @@
 
 ``` Footer for Document ```
 
-Obtaining Informed Consent V 1.1
+Obtaining Informed Consent V 1.2
 
 witness.org @witnessorg facebook.com/witness 
 ```[IMAGE witness logo.ai]```
@@ -27,17 +27,10 @@ The use and the purpose of the interview must be fully explained. This helps pro
 safety and maintains an honest relationship between interviewer and interviewee.
 
 ### Voluntariness
-The interviewee must voluntarily give their permission for the interview
-to be used and express whether he or she is willing to be identified by
-name.
+Cras consectetur dui et risus consequat auctor. Duis elementum libero in nibh suscipit consectetur.
 
-### Comprehension
-The interviewee must fully comprehend the implications of the interview
-and the intended distribution, including potential consequences of
-online distribution. They have the right to rescind their permission for
-future use of the footage – however, ensure they comprehend that it is
-not possible to permanently remove materials from the internet. Provide
-an example of a worst case scenario.
+### Non-Comprehension
+Donec laoreet ipsum vel pellentesque aliquet. Cras sollicitudin ac purus et vehicula. Ut nisl nisl, ultrices id leo quis, pulvinar pellentesque eros. Aliquam erat volutpat. Integer imperdiet justo et ultricies malesuada. Maecenas molestie eu ante eu ultrices. Maecenas vel augue lacus.
 
 ### Competence
 The interviewee must be able to comprehend the implications of his or
