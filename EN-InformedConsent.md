@@ -29,7 +29,7 @@ Vestibulum commodo ipsum et magna fringilla, eu pulvinar erat commodo. Cras vel 
 Cras consectetur dui et risus consequat auctor. Duis elementum libero in nibh suscipit consectetur.
 
 ### Non-Comprehension
-Donec laoreet ipsum vel pellentesque aliquet. Cras sollicitudin ac purus et vehicula. Ut nisl nisl, ultrices id leo quis, pulvinar pellentesque eros. Aliquam erat volutpat. Integer imperdiet justo et ultricies malesuada. Maecenas molestie eu ante eu ultrices. Maecenas vel augue lacus.
+Donec laoreet ipsum vel pellentesque aliquet. Cras sollicitudin ac purus et vehicula. Ut nisl nisl, ultrices id leo quis, pulvinar pellentesque eros. Aliquam erat volutpat. Integer imperdiet justo et ultricies malesuada. Maecenas molestie eu ante eu ultrices. 
 
 ### Competence
 The interviewee must be able to comprehend the implications of his or
