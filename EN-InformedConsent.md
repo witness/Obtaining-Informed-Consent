@@ -10,7 +10,7 @@
 
 ``` Footer for Document ```
 
-Obtaining Informed Consent V 1.1
+Obtaining Informed Consent V 1.2
 
 witness.org @witnessorg facebook.com/witness 
 ```[IMAGE witness logo.ai]```
