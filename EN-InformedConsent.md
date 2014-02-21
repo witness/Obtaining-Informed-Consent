@@ -10,7 +10,7 @@
 
 ``` Footer for Document ```
 
-Obtaining Informed Consent V 1.2
+Obtaining Informed Consent V 1.3
 
 witness.org @witnessorg facebook.com/witness 
 ```[IMAGE witness logo.ai]```
@@ -23,8 +23,7 @@ defenders to protect the safety, security, and dignity of their
 interviewees. There are 6 main elements:
 
 ### Disclosure
-The use and the purpose of the interview must be fully explained. This helps protect the interviewee’s
-safety and maintains an honest relationship between interviewer and interviewee.
+Vestibulum commodo ipsum et magna fringilla, eu pulvinar erat commodo. Cras vel aliquam dolor. Nulla justo neque, lacinia ut nisi at, euismod facilisis odio. Fusce eget laoreet ante.
 
 ### Voluntariness
 Cras consectetur dui et risus consequat auctor. Duis elementum libero in nibh suscipit consectetur.
