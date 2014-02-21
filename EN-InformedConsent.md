@@ -2,7 +2,7 @@
 
 ```[IMAGE witness logo filename.extension]```
 
-# Obtaining Informed Consent
+# Obtaining Informed Consent!
 ### A WITNESS Tip Sheet
 ### Filming for human rights can be dangerous: Be safe. Be ethical. Be effective.
 ### 
