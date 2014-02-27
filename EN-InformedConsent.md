@@ -10,7 +10,7 @@
 
 ``` Footer for Document ```
 
-Obtaining Informed Consent V 1.3.1
+Obtaining Informed Consent V 1.3.2
 
 witness.org @witnessorg facebook.com/witness 
 ```[IMAGE witness logo.ai]```
@@ -96,5 +96,6 @@ or video itself that we need to be aware of?
 * Are you aware that you can stop the filming process at any time in order
 to ask questions or to take a break?
 * Is this working?!
+* Adding text to address Issue #6
 
 ```End of document```
