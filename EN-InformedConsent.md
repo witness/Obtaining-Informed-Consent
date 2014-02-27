@@ -96,5 +96,6 @@ or video itself that we need to be aware of?
 * Are you aware that you can stop the filming process at any time in order
 to ask questions or to take a break?
 * Is this working?!
+* Adding text to address Issue #6
 
 ```End of document```
